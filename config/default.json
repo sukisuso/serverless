@@ -1,0 +1,11 @@
+{
+  "svl_port": 3000,
+  "svl_logger": true,
+  "svl_logger_name": "serverless",
+  "svl_logger_format": ":method :url",
+  "svl_logger_info": "info",
+  "svl_database_url": "localhost",
+  "svl_database_port": 27017,
+  "svl_database_name": "serverless",
+  "svl_auth": false
+}
